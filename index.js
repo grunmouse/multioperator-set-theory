@@ -2,7 +2,8 @@
 const opers = [
 	require('./union.js'),
 	require('./intersection.js'),
-	require('./difference.js')
+	require('./difference.js'),
+	require('./complement.js')
 	
 ];
 
